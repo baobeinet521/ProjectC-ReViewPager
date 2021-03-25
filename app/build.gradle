@@ -36,4 +36,12 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    implementation 'com.jakewharton:butterknife:10.2.3'
+    implementation 'com.facebook.fresco:fresco:0.14.1'
+
+    implementation 'com.facebook.fresco:animated-webp:0.14.1' //支持 WebP动图时添加
+
+    implementation 'com.facebook.fresco:webpsupport:0.14.1'//支持 WebP静态图时添加
+
+    implementation 'com.facebook.fresco:animated-gif:0.14.1' // 支持 GIF 动图时添加
 }
