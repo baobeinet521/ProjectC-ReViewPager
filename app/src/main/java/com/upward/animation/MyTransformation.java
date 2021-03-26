@@ -1,4 +1,4 @@
-package com.upward.projectc_reviewpager;
+package com.upward.animation;
 
 import android.graphics.Camera;
 import android.view.View;
